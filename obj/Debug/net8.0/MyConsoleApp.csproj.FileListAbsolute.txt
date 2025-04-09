@@ -12,3 +12,4 @@ C:\School\Mobile Dev\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
 C:\School\Mobile Dev\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
 C:\School\Mobile Dev\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
 C:\School\Mobile Dev\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
+C:\School\Mobile Dev\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
